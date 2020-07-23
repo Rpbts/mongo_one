@@ -2,3 +2,4 @@ C:\Program Files\MongoDB\Server\4.2\bin
 //
 
 
+{first_name: "sJon", favoriteSeason: "spring", counvtries_visited: 42}
