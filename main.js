@@ -1,6 +1,7 @@
 const MongoDB = require("mongodb").MongoClient,
     dbURL = "mongodb://localhost:27017",
     dbName = "recipe_db";
+    mongoose = require("mongoose");
 
 const Subscriber = require("./models/subscriber.js");
 
