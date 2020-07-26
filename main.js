@@ -44,3 +44,4 @@ myQuery.exec((error, data) => {
 }
 );
 
+subscribersController = require("./models/subscribers  -Controller");
