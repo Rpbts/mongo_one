@@ -19,6 +19,6 @@
   "homepage": "https://github.com/rpbts/mongo_one#readme",
   "dependencies": {
     "mongodb": "^3.5.9",
-    "mongoose": "^5.9.25"
+    "mongoose": "^5.13.15"
   }
 }
